@@ -1,4 +1,4 @@
-# FDA-ONE
+# FOODLY
 
 Food Delivery Application is a mobile application that users can use to find the best restaurant around their location and order the meals they desire from the comfort of their home. One of the unique services of this product is that it targets only healthy restaurants so only high quality food with the healthiest benefits is offered to users at affordable cost. Do you want to loose weight or simply stay healthy? Let FitFood help you meet your weight loss goal and cut off that bad fat that increases your cholesterol level due to poor food choices. We offer only the best food choices.
 
