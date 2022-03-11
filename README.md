@@ -11,8 +11,8 @@ Food Delivery Application is a mobile application that users can use to find the
 # Installation
 Clone the repository
 ```sh
-$ git clone https://github.com/decadevs/FDA-ONE.git
-$ cd FDA-ONE
+$ git clone https://github.com/decadevs/Foodly.git
+$ cd Foodly
 $ cd Foodly
 $ pod install
 ```
